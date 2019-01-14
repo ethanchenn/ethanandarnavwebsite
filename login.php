@@ -2,7 +2,7 @@
     $host = "127.0.0.1";
     $user = "heilethan";
     $pass = "";
-   $db = "sample_db";
+    $db = "c9";
     $port = 3306;
 
  ?>
