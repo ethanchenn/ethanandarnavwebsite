@@ -1,7 +1,6 @@
 <?php
     require_once 'login.php';
     $connection = mysqli_connect($host, $user, $pass, $db, $port)or die(mysql_error());
-    
     $query = "SELECT * FROM fireStarters";
     $result = mysqli_query($connection, $query);
 

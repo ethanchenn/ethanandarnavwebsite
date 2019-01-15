@@ -13,10 +13,7 @@ h3{
    color: black;
    text-align: center;
 }
-h4{
-   color: black;
-   text-align: center;
-}
+
 p {
 	  	color: black;
 }
@@ -32,7 +29,8 @@ ul {
 
 li a {
   display: block;
-  color: black;       
+  color: black;
+  background-color: rgb(128, 128, 128);
   text-align: center;    
   padding: 20px 20px;     
   text-decoration: none;
@@ -67,7 +65,7 @@ li a {
   padding: 10px;
 }
 .cen {
-  float: cen;
+  float: center;
   width: 40%;
   padding: 10px;
 }
